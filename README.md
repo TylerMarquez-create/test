@@ -9,6 +9,5 @@ This text should be muuuch smaller.
 ---
 ### Code
 ```javascript
-const element = docment.getElementById("root");
-element.className = "myMainDiv";
+var element = document.getElementById(id);
 ```
